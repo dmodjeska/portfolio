@@ -1,4 +1,4 @@
-## My data science portfolio
+## Data Science Portfolio - David Modjeska
 
 * [Predicting Movie Genres with IMDb](https://github.com/dmodjeska/cs109b): Prediction of movie genres from plots, cast/crew and posters on data from IMDb, TMDb, and MovieLens. Project for a course on data science at Harvard University. (R and Python)
 
