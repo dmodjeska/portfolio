@@ -12,6 +12,6 @@
 
 * [Exploratory Data Analysis and Statistical Modeling of Urban Diversity in USA, UK, and Canada](https://github.com/dmodjeska/diversity): Exploratory data analysis and statistical modeling of urban diversity and segregation in the USA, the UK, and Canada. Replication of a data analysis by Nate Silver for FiveThirtyEight.com. (R)
 
-* [Anonymized Work Samples](https://github.com/dmodjeska/work_samples): Selected reports for business stakeholders in the financial services industry, in anonymized form. (R and Python)
+* [Anonymized Work Samples](https://github.com/dmodjeska/work_samples): Selected reports for business stakeholders in industry, in anonymized form. (R and Python)
 
 * [Interactive Visualization of the Role of Cities in the World Economy](https://public.tableau.com/profile/david.modjeska#!/vizhome/GlobalCities_2/CitiesView): Exploratory data analysis and interactive visualization of the role of cities in the world economy, with data from Globalization and World Cities (Tableau)
