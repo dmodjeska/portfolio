@@ -1,8 +1,8 @@
 ## Data Science Portfolio - David Modjeska
 
-* [Predicting Movie Genres with IMDb](https://github.com/dmodjeska/cs109b): Prediction of movie genres from plots, cast/crew and posters on data from IMDb, TMDb, and MovieLens. Project for a course on data science at Harvard University. (R and Python)
+* [Predicting Movie Genres with IMDb](https://github.com/dmodjeska/cs109b): Prediction of movie genres from plots, cast/crew and posters on data from IMDb, TMDb, and MovieLens. Project for a course on data science at Harvard University. With Andrew Greene. (R and Python)
 
-* [Predicting Loan Defaults with Lending Club](https://github.com/dmodjeska/cs109a): Prediction of Lending Club loan defaults with machine learning. Kaggle data, project for a course on data science at Harvard University. (Python)
+* [Predicting Loan Defaults with Lending Club](https://github.com/dmodjeska/cs109a): Prediction of Lending Club loan defaults with machine learning. Kaggle data, project for a course on data science at Harvard University. With Dominic Murphy. (Python)
 
 * [Analysis of Transactions for the Borough of Barnet](https://github.com/dmodjeska/barnet_transactions): Data characterization, clustering, and anomaly detection for credit card transactions by the London Borough of Barnet. Simulated auditing exercise. (Python)
 
