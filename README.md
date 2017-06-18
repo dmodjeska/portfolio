@@ -11,3 +11,5 @@
 * [Word Prediction App with Data from Twitter, News, and Blogs](https://github.com/dmodjeska/word-predictor): Language model algorithm and word prediction app with data from Twitter, news, and blogs. Capstone project for Coursera certificate in data science by Johns Hopkins University. (R)
 
 * [Exploratory Data Analysis and Statistical Modeling of Urban Diversity in USA, UK, and Canada](https://github.com/dmodjeska/diversity): Exploratory data analysis and statistical modeling of urban diversity and segregation in the USA, the UK, and Canada. Replication of a data analysis by Nate Silver for FiveThirtyEight.com. (R)
+
+* [Anonymized Work Samples](https://github.com/dmodjeska/work_samples): Selected reports for business stakeholders in the financial services industry, fully anonymized. (R and Python)
