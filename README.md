@@ -1,6 +1,6 @@
 ## Data Science Portfolio - David Modjeska
 
-* **Predicting FX rate movements** for USD, AUD, CAD, EU, JPY, CHF, and GBP. Used machine learning and deep learning. Obtained data from FRED, EIA, and Quandl. (Python)
+* [Predicting FX rate movements(https://github.com/dmodjeska/predict_fx_rate_movements) for USD, AUD, CAD, EU, JPY, CHF, and GBP. Used machine learning and deep learning. Obtained data from FRED, EIA, and Quandl. (Python)
 
 * [Predicting Movie Genres with IMDb](https://github.com/dmodjeska/cs109b): Prediction of movie genres from plots, cast/crew and posters on data from IMDb, TMDb, and MovieLens. Project for a course on data science at Harvard University. With Andrew Greene. (R and Python)
 
