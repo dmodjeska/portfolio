@@ -4,7 +4,7 @@
 
 * [Detecting fraud in mobile app ad clicks](https://github.com/dmodjeska/talking_data) for a large Chinese big-data services company. Used machine learning with Apache Spark. For a Kaggle competition. (Python)
 
-* [Predict acceptance of teachers' project proposals](https://github.com/dmodjeska/donors_choose) by the non-profit DonorsChoose.org. Used machine learning and text mining. For a Kaggle competition. (Python)
+* [Predicting whether teachers' project proposals are accepted](https://github.com/dmodjeska/donors_choose) by the non-profit DonorsChoose.org. Used machine learning and text mining. For a Kaggle competition. (Python)
 
 * [Predicting Movie Genres with IMDb](https://github.com/dmodjeska/cs109b): Prediction of movie genres from plots, cast/crew and posters on data from IMDb, TMDb, and MovieLens. Project for a course on data science at Harvard University. With Dominic Murphy. (R and Python)
 
