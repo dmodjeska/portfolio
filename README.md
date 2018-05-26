@@ -6,6 +6,8 @@
 
 * [Predicting whether teachers' project proposals are accepted](https://github.com/dmodjeska/donors_choose) by the non-profit DonorsChoose.org. Used machine learning and text mining. For a Kaggle competition. (Python)
 
+* [Determining the breed of a dog in an image](https://github.com/dmodjeska/dog_breed_identification) with data from ImageNet. Used deep learning. For a Kaggle competition. (Python)
+
 * [Predicting Movie Genres with IMDb](https://github.com/dmodjeska/cs109b): Prediction of movie genres from plots, cast/crew and posters on data from IMDb, TMDb, and MovieLens. Project for a course on data science at Harvard University. With Dominic Murphy. (R and Python)
 
 * [Predicting Loan Defaults with Lending Club](https://github.com/dmodjeska/cs109a): Prediction of Lending Club loan defaults with machine learning. Kaggle data, project for a course on data science at Harvard University. With Andrew Greene. (Python)
