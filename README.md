@@ -1,4 +1,4 @@
-<img src="https://github.com/dmodjeska/portfolio/blob/master/ds.png" height="128" title="Data Science Logo">
+<img src="https://github.com/dmodjeska/portfolio/blob/master/ds.png" height="196" title="Data Science Logo">
 
 ## Data Science Portfolio - David Modjeska
 
