@@ -9,7 +9,7 @@
 
 * [Predicting whether teachers' project proposals are accepted](https://github.com/dmodjeska/donors_choose) by DonorsChoose.org. Used machine learning and text mining. For a Kaggle competition. (Python)
 
-* [Identifying the breed of a dog in an image](https://github.com/dmodjeska/dog_breed_identification) with data from ImageNet. Used deep learning. For a Kaggle competition. With Dominic Murphy. (Python)
+* [Determining the breed of a dog in an image](https://github.com/dmodjeska/dog_breed_identification) with data from ImageNet. Used deep learning. For a Kaggle competition. With Dominic Murphy. (Python)
 
 * [Predicting movie genres from plots, cast/crew, and posters](https://github.com/dmodjeska/cs109b) with data from IMDb, TMDb, and MovieLens. Used machine learning and deep learning. Project for a course on data science at Harvard University. With Dominic Murphy. (R and Python)
 
