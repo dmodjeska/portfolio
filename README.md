@@ -5,9 +5,9 @@
 
 * [**Predicting FX rate movements**](https://github.com/dmodjeska/predict_fx_rate_movements) for USD, AUD, CAD, EU, JPY, CHF, and GBP. Used machine learning and deep learning. Obtained data from FRED, EIA, and Quandl. With Dominic Murphy. (Python)
 
-* [Detecting fraud in mobile app ad clicks](https://github.com/dmodjeska/talking_data) for a large Chinese big-data services company. Used machine learning with Apache Spark. For a Kaggle competition. (Python)
+* [**Detecting fraud in mobile app ad clicks**](https://github.com/dmodjeska/talking_data) for a large Chinese big-data services company. Used machine learning with Apache Spark. For a Kaggle competition. (Python)
 
-* [Predicting whether teachers' project proposals are accepted](https://github.com/dmodjeska/donors_choose) by DonorsChoose.org. Used machine learning and text mining. For a Kaggle competition. (Python)
+* [**Predicting whether teachers' project proposals are accepted**](https://github.com/dmodjeska/donors_choose) by DonorsChoose.org. Used machine learning and text mining. For a Kaggle competition. (Python)
 
 * [Determining the breed of a dog in an image](https://github.com/dmodjeska/dog_breed_identification) with data from ImageNet. Used deep learning. For a Kaggle competition. With Dominic Murphy. (Python)
 
