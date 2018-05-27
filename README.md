@@ -13,7 +13,7 @@
 
 * [Predicting Movie Genres with IMDb](https://github.com/dmodjeska/cs109b): Prediction of movie genres from plots, cast/crew and posters on data from IMDb, TMDb, and MovieLens. Project for a course on data science at Harvard University. With Dominic Murphy. (R and Python)
 
-* [Predicting loan defaults with Lending Club](https://github.com/dmodjeska/cs109a) using machine learning. Kaggle data, project for a course on data science at Harvard University. With Andrew Greene. (Python)
+* [Predicting loan defaults with Lending Club](https://github.com/dmodjeska/cs109a) using machine learning. Data from Lending Club via Kaggle. Project for a course on data science at Harvard University. With Andrew Greene. (Python)
 
 * [Analysis of transactions for the Borough of Barnet](https://github.com/dmodjeska/barnet_transactions): Data characterization, clustering, and anomaly detection. Simulated auditing exercise for a large Canadian bank. (Python)
 
