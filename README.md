@@ -1,7 +1,5 @@
 <img align='right' height='96' src='https://github.com/dmodjeska/portfolio/blob/master/ds.png'> 
 &nbsp;
-&nbsp;
-&nbsp;
 
 ## Data Science Portfolio - David Modjeska
 
