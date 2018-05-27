@@ -1,4 +1,4 @@
-<img align='right' height='96' src='https://github.com/dmodjeska/portfolio/blob/master/ds.png'> 
+<img align='right' height='96' src='https://github.com/dmodjeska/portfolio/blob/master/ds2.jpg'> 
 &nbsp;
 
 ## Data Science Portfolio - David Modjeska
