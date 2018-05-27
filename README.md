@@ -7,7 +7,7 @@
 
 * [Detecting fraud in mobile app ad clicks](https://github.com/dmodjeska/talking_data) for a large Chinese big-data services company. Used machine learning with Apache Spark. For a Kaggle competition. (Python)
 
-* [Predicting whether teachers' project proposals are accepted](https://github.com/dmodjeska/donors_choose) by the non-profit DonorsChoose.org. Used machine learning and text mining. For a Kaggle competition. (Python)
+* [Predicting whether teachers' project proposals are accepted](https://github.com/dmodjeska/donors_choose) by DonorsChoose.org. Used machine learning and text mining. For a Kaggle competition. (Python)
 
 * [Identifying the breed of a dog in an image](https://github.com/dmodjeska/dog_breed_identification) with data from ImageNet. Used deep learning. For a Kaggle competition. With Dominic Murphy. (Python)
 
