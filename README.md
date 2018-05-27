@@ -19,7 +19,7 @@
 
 * [Statistical modeling of historical USD/CAD FX rates](https://github.com/dmodjeska/usd_cad_fx). Project for course in intermediate statistics at Harvard University. With Dominic Murphy. (R and SPSS)
 
-* [Word prediction app with data from Twitter, news, and blogs](https://github.com/dmodjeska/word-predictor). Used text mining and language models. Capstone project for Coursera certificate in data science by Johns Hopkins University. (R)
+* [Word prediction app with Twitter, news, and blogs](https://github.com/dmodjeska/word-predictor). Used text mining and language models. Capstone project for Coursera certificate in data science by Johns Hopkins University. (R)
 
 * [Exploratory data analysis and statistical modeling of urban diversity in USA, UK, and Canada](https://github.com/dmodjeska/diversity). Data from national censuses. Replication of a data analysis by Nate Silver for FiveThirtyEight.com. (R)
 
