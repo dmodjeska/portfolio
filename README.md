@@ -19,8 +19,8 @@
 
 * [Statistical Modeling of USD/CAD FX Rates](https://github.com/dmodjeska/usd_cad_fx): Statistical modeling of historical USD/CAD FX rates Project for course in intermediate statistics at Harvard University. With Dominic Murphy. (R and SPSS)
 
-* [Word Prediction App with Data from Twitter, News, and Blogs](https://github.com/dmodjeska/word-predictor): Language model algorithm and word prediction app with data from Twitter, news, and blogs. Capstone project for Coursera certificate in data science by Johns Hopkins University. (R)
+* [Word prediction app with data from Twitter, news, and blogs](https://github.com/dmodjeska/word-predictor). Used n-gram based language models. Capstone project for Coursera certificate in data science by Johns Hopkins University. (R)
 
-* [Exploratory Data Analysis and Statistical Modeling of Urban Diversity in USA, UK, and Canada](https://github.com/dmodjeska/diversity): Exploratory data analysis and statistical modeling of urban diversity and segregation in the USA, the UK, and Canada. Replication of a data analysis by Nate Silver for FiveThirtyEight.com. (R)
+* [Exploratory data analysis and statistical modeling of urban diversity in USA, UK, and Canada](https://github.com/dmodjeska/diversity). Replication of a data analysis by Nate Silver for FiveThirtyEight.com. (R)
 
 * [Interactive Visualization of the Role of Cities in the World Economy](https://public.tableau.com/profile/david.modjeska#!/vizhome/GlobalCities_2/CitiesView): Exploratory data analysis and interactive visualization of the role of cities in the world economy, with data from Globalization and World Cities (Tableau)
