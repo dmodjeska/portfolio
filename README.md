@@ -1,3 +1,6 @@
+<img align='right' height='96' src='https://github.com/dmodjeska/portfolio/blob/master/ds.png'> 
+&nbsp;
+
 ## Data Science Portfolio - David Modjeska
 
 * [Predicting FX rate movements](https://github.com/dmodjeska/predict_fx_rate_movements) for USD, AUD, CAD, EU, JPY, CHF, and GBP. Used machine learning and deep learning. Obtained data from FRED, EIA, and Quandl. With Dominic Murphy. (Python)
