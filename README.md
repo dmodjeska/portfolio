@@ -15,7 +15,7 @@
 
 * [Predicting loan defaults with Lending Club](https://github.com/dmodjeska/cs109a) using machine learning. Data from Lending Club via Kaggle. Project for a course on data science at Harvard University. With Andrew Greene. (Python)
 
-* [Analysis of transactions for the Borough of Barnet](https://github.com/dmodjeska/barnet_transactions): Data characterization, clustering, and anomaly detection. Simulated auditing exercise for a large Canadian bank. (Python)
+* [Analysis of transactions for the Borough of Barnet](https://github.com/dmodjeska/barnet_transactions). Data characterization, clustering, and anomaly detection. Simulated auditing exercise for a large Canadian bank. (Python)
 
 * [Statistical modeling of historical USD/CAD FX rates](https://github.com/dmodjeska/usd_cad_fx). Project for course in intermediate statistics at Harvard University. With Dominic Murphy. (R and SPSS)
 
