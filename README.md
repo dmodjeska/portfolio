@@ -21,6 +21,6 @@
 
 * [Word prediction app with data from Twitter, news, and blogs](https://github.com/dmodjeska/word-predictor). Used text mining and language models. Capstone project for Coursera certificate in data science by Johns Hopkins University. (R)
 
-* [Exploratory data analysis and statistical modeling of urban diversity in USA, UK, and Canada](https://github.com/dmodjeska/diversity). Replication of a data analysis by Nate Silver for FiveThirtyEight.com. (R)
+* [Exploratory data analysis and statistical modeling of urban diversity in USA, UK, and Canada](https://github.com/dmodjeska/diversity). Data from national censuses. Replication of a data analysis by Nate Silver for FiveThirtyEight.com. (R)
 
 * [Interactive visualization of the role of cities in the world economy](https://public.tableau.com/profile/david.modjeska#!/vizhome/GlobalCities_2/CitiesView). Exploratory data analysis and data visualization. Data from Globalization and World Cities (Tableau)
