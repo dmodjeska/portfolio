@@ -11,7 +11,7 @@
 
 * [Identifying the breed of a dog in an image](https://github.com/dmodjeska/dog_breed_identification) with data from ImageNet. Used deep learning. For a Kaggle competition. With Dominic Murphy. (Python)
 
-* [Predicting Movie Genres with IMDb](https://github.com/dmodjeska/cs109b): Prediction of movie genres from plots, cast/crew and posters on data from IMDb, TMDb, and MovieLens. Project for a course on data science at Harvard University. With Dominic Murphy. (R and Python)
+* [Predicting movie genres from plots, cast/crew, and posters](https://github.com/dmodjeska/cs109b) with data from IMDb, TMDb, and MovieLens. Used machine learning and deep learning. Project for a course on data science at Harvard University. With Dominic Murphy. (R and Python)
 
 * [Predicting loan defaults with Lending Club](https://github.com/dmodjeska/cs109a) using machine learning. Data from Lending Club via Kaggle. Project for a course on data science at Harvard University. With Andrew Greene. (Python)
 
