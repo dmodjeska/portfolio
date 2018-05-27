@@ -13,14 +13,14 @@
 
 * [Predicting Movie Genres with IMDb](https://github.com/dmodjeska/cs109b): Prediction of movie genres from plots, cast/crew and posters on data from IMDb, TMDb, and MovieLens. Project for a course on data science at Harvard University. With Dominic Murphy. (R and Python)
 
-* [Predicting Loan Defaults with Lending Club](https://github.com/dmodjeska/cs109a): Prediction of Lending Club loan defaults with machine learning. Kaggle data, project for a course on data science at Harvard University. With Andrew Greene. (Python)
+* [Predicting loan defaults with Lending Club](https://github.com/dmodjeska/cs109a) using machine learning. Kaggle data, project for a course on data science at Harvard University. With Andrew Greene. (Python)
 
-* [Analysis of Transactions for the Borough of Barnet](https://github.com/dmodjeska/barnet_transactions): Data characterization, clustering, and anomaly detection for credit card transactions by the London Borough of Barnet. Simulated auditing exercise. (Python)
+* [Analysis of transactions for the Borough of Barnet](https://github.com/dmodjeska/barnet_transactions): Data characterization, clustering, and anomaly detection. Simulated auditing exercise for a large Canadian bank. (Python)
 
-* [Statistical Modeling of USD/CAD FX Rates](https://github.com/dmodjeska/usd_cad_fx): Statistical modeling of historical USD/CAD FX rates Project for course in intermediate statistics at Harvard University. With Dominic Murphy. (R and SPSS)
+* [Statistical modeling of historical USD/CAD FX rates](https://github.com/dmodjeska/usd_cad_fx). Project for course in intermediate statistics at Harvard University. With Dominic Murphy. (R and SPSS)
 
-* [Word prediction app with data from Twitter, news, and blogs](https://github.com/dmodjeska/word-predictor). Used n-gram based language models. Capstone project for Coursera certificate in data science by Johns Hopkins University. (R)
+* [Word prediction app with data from Twitter, news, and blogs](https://github.com/dmodjeska/word-predictor). Used text mining and language models. Capstone project for Coursera certificate in data science by Johns Hopkins University. (R)
 
 * [Exploratory data analysis and statistical modeling of urban diversity in USA, UK, and Canada](https://github.com/dmodjeska/diversity). Replication of a data analysis by Nate Silver for FiveThirtyEight.com. (R)
 
-* [Interactive Visualization of the Role of Cities in the World Economy](https://public.tableau.com/profile/david.modjeska#!/vizhome/GlobalCities_2/CitiesView): Exploratory data analysis and interactive visualization of the role of cities in the world economy, with data from Globalization and World Cities (Tableau)
+* [Interactive visualization of the role of cities in the world economy](https://public.tableau.com/profile/david.modjeska#!/vizhome/GlobalCities_2/CitiesView). Exploratory data analysis and data visualization. Data from Globalization and World Cities (Tableau)
